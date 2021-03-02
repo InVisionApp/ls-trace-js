@@ -81,7 +81,7 @@
     "shimmer": "^1.2.0",
     "systeminformation": "^4.22.5",
     "tar": "^4.4.8",
-    "url-parse": "^1.4.3",
+    "url-parse": "^1.5.1",
     "whatwg-fetch": "^3.0.0"
   },
   "devDependencies": {
